@@ -1,4 +1,4 @@
-# Etapa Técnica - Parte 2 - Testes Web
+# Etapa Técnica processo seletivo Codex - Testes automatizados com Cypress
 Esse repositório faz parte da etapa de avaliação para a vaga de QA da empresa Codex e tem como objetivo avaliar os domínios em testes Web. Os testes foram desenvolvidos utilizando a linguagem Javascript e framework Cypress.
 
 # Pré-requisitos:
@@ -6,7 +6,7 @@ Certifique-se de ter Node.js instalados em seu ambiente de desenvolvimento.
 
 # Instalação
 Clone este repositório:
-git clone https
+git clone https://github.com/LipeSanches/testesCodex.git
 
 Navegue até o diretório do projeto:
 cd nome-do-repositorio
